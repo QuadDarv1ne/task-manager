@@ -100,10 +100,8 @@ npm install bootstrap bootstrap-vue-next vue-bootstrap-icons papaparse <= уст
 ```
 
 #### Также проект можно собрать на стеке:
-<img src="img/vue_3.png" alt="vue3" width="400"/>
-<img src="img/ejs.png" alt="ejs" width="400"/>
-<img src="img/boostrap.png" alt="boostrap" width="400"/>
-<img src="img/papaparse.png" alt="papaparse" width="400"/>
+<img src="img/vue_3.png" alt="vue3" width="400"/><img src="img/ejs.png" alt="ejs" width="400"/>
+<img src="img/boostrap.png" alt="boostrap" width="400"/><img src="img/papaparse.png" alt="papaparse" width="400"/>
 <img src="img/pinia.png" alt="pinia" width="400"/>
 
 ```
