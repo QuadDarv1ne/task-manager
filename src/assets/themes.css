@@ -1,0 +1,53 @@
+/* themes.css */
+
+/* Светлая тема */
+:root {
+    --background-color: #ffffff;
+    --text-color: #222020;
+    --button-primary-bg: #007bff;
+    --button-primary-text: #ffffff;
+}
+
+/* Тёмная тема */
+[data-theme="dark"] {
+    --background-color: #343a40;
+    --text-color: #ffffff;
+    --button-primary-bg: #17a2b8;
+    --button-primary-text: #ffffff;
+}
+
+/* Синяя тема */
+[data-theme="blue"] {
+    --background-color: #e3f2fd;
+    --text-color: #95b8ec;
+    --button-primary-bg: #0d47a1;
+    --button-primary-text: #ffffff;
+}
+
+/* Оранжевая тема */
+[data-theme="orange"] {
+    --background-color: #ffbf48;
+    --text-color: #fad265;
+    --button-primary-bg: #2575ec;
+    --button-primary-text: #ffffff;
+}
+
+/* Фиолетовая тема */
+[data-theme="purple"] {
+    --background-color: #efb0ff;
+    --text-color: #b369f8;
+    --button-primary-bg: #2e7cf1;
+    --button-primary-text: #ffffff;
+}
+
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.btn-primary {
+    transition: background-color 0.3s ease, color 0.3s ease;
+    background-color: var(--button-primary-bg);
+    color: var(--button-primary-text);
+}
