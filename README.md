@@ -55,6 +55,22 @@ npm install bootstrap bootstrap-vue-next vue-bootstrap-icons papaparse <= уст
 ```
 
 ```
+Используемые технологии:
+1. vue
+2. ejs
+3. boostrap: bootstrap-vue-next, vue-bootstrap-icons
+4. papaparse
+5. pinia
+```
+
+#### Также проект можно собрать на стеке:
+![alt text](img/vue_3.png)
+![alt text](img/ejs.png)
+![alt text](img/boostrap.png)
+![alt text](img/papaparse.png)
+![alt text](img/pinia.png)
+
+```
 Vue CLI v5.0.8
 ? Please pick a preset: Default ([Vue 3] babel, eslint)
 
