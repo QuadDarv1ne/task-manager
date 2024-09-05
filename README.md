@@ -1,6 +1,7 @@
 ## Создание приложения Task Manager на Vue.JS (Front-end)
 
-![alt text](img/image.png)
+![alt text](img/vue_js_2.png)
+![alt text](img/vue_task_manager.png)
 
 ```
 Структура проекта:
