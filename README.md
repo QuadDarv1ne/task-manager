@@ -81,13 +81,13 @@ task-manager/
 ```
 
 ```
-npm install -g @vue/cli <= установка необходимых зависимостей
-vue create task-manager <= создание проекта
-npm install bootstrap <= установка boostrap
-npm install papaparse <= установка papaparse (для работы .csv)
+`npm install -g @vue/cli` <= установка необходимых зависимостей
+`vue create task-manager` <= создание проекта
+`npm install bootstrap` <= установка boostrap
+`npm install papaparse` <= установка papaparse (для работы .csv)
 
 Общая установка:
-npm install bootstrap bootstrap-vue-next vue-bootstrap-icons papaparse <= установка библиотек
+`npm install bootstrap bootstrap-vue-next vue-bootstrap-icons papaparse` <= установка библиотек
 ```
 
 ```
@@ -135,8 +135,8 @@ added 89 packages in 19s
 🎉  Successfully created project task-manager.
 👉  Get started with the following commands:
 
-$ cd task-manager
-$ npm run serve
+$ `cd task-manager`
+$ `npm run serve`
 ```
 
 ```
